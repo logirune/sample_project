@@ -1,0 +1,3 @@
+foo[0, 100]  # Get 100 characters starting at position 0
+foo[0..99]   # Get all characters in index range 0 to 99 (inclusive!)
+foo[0...100] # Get all characters in index range 0 to 100 (exclusive!)
